@@ -2,6 +2,8 @@
 
 A script to grab chrome browser password
 
+Source code address: `https://github.com/ohyicong/decrypt-chrome-passwords `
+
 
 
 ### Dependencies
